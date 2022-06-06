@@ -1,5 +1,5 @@
 # pluginCasaNovaDigital
-Plugin Wordpress open-source, mantido pela Agêmcia Casa Nova Digital, com a colaboração de associados. 
+Plugin Wordpress open-source, mantido pela Agência HTTPS://casanovadigital.com.br, com a colaboração de associados. 
 
 Objetivo:
 1-> Atender as nescessidades básicas de sites que vendem pela internet
@@ -9,7 +9,7 @@ Objetivo:
 -> Integração com S3
 -> Integração com Mautic
 -> Integração com Proxy da Casanova digital.
--> Integração com Proxy CRM
+-> Integração com CRM open source da casanovadigital 
 -> Sistema de botões Call To Action integrado com Analitics
 -> Sistema link de Indicações
 -> Sistema de sorteio
