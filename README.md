@@ -12,7 +12,7 @@ Objetivo:
 -> Integração com CRM open source da casanovadigital 
 -> Sistema de botões Call To Action integrado com Analitics
 -> Sistema link de Indicações
--> Sistema de sorteio
+-> Integração com sistema de concurso de sorte integrado as redes sociais
 -> Gravador de video da jornada  do usuário
 -> CRM da Casnova Digital.
 
